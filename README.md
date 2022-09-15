@@ -1,10 +1,10 @@
 ## Hi there, I'm Safi Nafi
 
-### I'm a Web developer, and Designer!
+### I'm a Web frontend developer, and Designer!
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with Web dev/designers .
-- 📚 I'm a second year computer engineering undergraduate at Alquds University
+- 🌱 I’m currently learning MongoDB, NodeJs, and Express
+- 👯 I’m looking to collaborate with NodeJs developers.
+- 📚 I'm a third year computer engineering undergraduate at Alquds University
 - 📫 Reach me at : safinafi12@gmail.com
 
 ### Connect with me:
